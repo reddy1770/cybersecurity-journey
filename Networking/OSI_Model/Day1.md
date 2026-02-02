@@ -25,7 +25,6 @@ Analyze attacks from a security perspective
 The OSI model has 7 layers.
 Each layer has a specific responsibility.
 Data passes through each layer in order.
-(We will study each layer in detail from Day 2 onward.)
 
 5. Real-world analogy
 
