@@ -20,13 +20,13 @@ Troubleshoot network problems
 Identify where failures occur
 Analyze attacks from a security perspective
 
-4. How many layers are in the OSI Model?
+**4. How many layers are in the OSI Model?**
 
 The OSI model has 7 layers.
 Each layer has a specific responsibility.
 Data passes through each layer in order.
 
-5. Real-world analogy
+**5. Real-world analogy**
 
 Think of the OSI model like a parcel delivery system:
 Packaging the item
@@ -35,7 +35,7 @@ Transporting it
 Delivering it to the receiver
 Each step has a role, just like each OSI layer.
 
-6. Why is the OSI Model important for Cybersecurity?
+**6. Why is the OSI Model important for Cybersecurity?**
 
 Cybersecurity professionals use the OSI model to:
 Identify where an attack occurs
@@ -43,7 +43,7 @@ Understand attack impact
 Design layered security defenses
 Without OSI, security becomes guesswork.
 
-7. Key takeaway
+**7. Key takeaway**
 
 The OSI model is not for memorization.
 It is a thinking framework for networking and security.
